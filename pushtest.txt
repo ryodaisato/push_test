@@ -1,0 +1,7 @@
+
+# User specific aliases and functions
+alias python=python36
+
+
+
+push test
